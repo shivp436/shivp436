@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋,
+### I'm Shivanand
+#### A full-stack web developer and a data-science learner
+
+As of now I don't have any great projects,
+make sure you visit after a while.
+
+Thank you.
 
 <!--
 **shivp436/shivp436** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
